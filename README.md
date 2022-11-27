@@ -1,2 +1,2 @@
-# chat-app-react-nodejs-master-2
+# Multi user chat app
  It is a multi user chat app
